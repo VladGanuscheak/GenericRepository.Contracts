@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <PackageId>GV.GenericRepository.Contracts</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ganușceac Vlad</Authors>
+    <Product>GV.GenericRepository.Contracts</Product>
+    <Title>GenericRepository.Contracts</Title>
+    <Description>Defines the necessary contracts for the GenericRepository implementation.</Description>
+    <RepositoryUrl>https://github.com/VladGanuscheak/GenericRepository.Contracts.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>generic;repository;genericrepository;.net;dotnet;c#;contracts</PackageTags>
+  </PropertyGroup>
+
+</Project>
