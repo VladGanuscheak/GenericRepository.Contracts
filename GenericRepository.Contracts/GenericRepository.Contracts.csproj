@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.0</TargetFramework>
-    <PackageId>GVO3Db.GenericRepository.Contracts</PackageId>
+    <PackageId>GenericRepository.Contracts</PackageId>
     <Version>1.0.0</Version>
     <Authors>Ganușceac Vlad</Authors>
-    <Product>GVO3Db.GenericRepository.Contracts</Product>
+    <Product>GenericRepository.Contracts</Product>
     <Title>GenericRepository.Contracts</Title>
     <Description>Defines the necessary contracts for the GenericRepository implementation.</Description>
     <RepositoryUrl>https://github.com/VladGanuscheak/GenericRepository.Contracts.git</RepositoryUrl>
