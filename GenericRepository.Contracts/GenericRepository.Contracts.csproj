@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <PackageId>GenericRepository.Contracts</PackageId>
-    <Version>1.1.0</Version>
+    <Version>2.0.0</Version>
     <Authors>Ganușceac Vlad</Authors>
     <Product>GenericRepository.Contracts</Product>
     <Title>GenericRepository.Contracts</Title>
