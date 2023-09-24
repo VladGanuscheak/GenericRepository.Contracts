@@ -77,7 +77,6 @@ namespace GenericRepository.Interfaces
         /// </summary>
         /// <exception cref="NullReferenceException">Throws System.NullReferenceException, if the filter has not been provided.</exception>
         /// <param name="searchClause">The filter option.</param>
-        /// <param name="entity">The entity.</param>
         /// <param name="cancellationToken">Optional. TPL Cancellation.</param>
         Task DeleteAsync([Required] Expression<Func<TEntity, bool>> searchClause,
             CancellationToken cancellationToken = default);
