@@ -5,4 +5,4 @@ that both synchronous and asynchronous versions of corresponding the service hav
 
 The General picture:
 
-![The General picture](https://github.com/VladGanuscheak/GenericRepository.Contracts/blob/main/GenericRepositoryContracts.svg)
+![The General picture](https://raw.githubusercontent.com/VladGanuscheak/GenericRepository.Contracts/main/GenericRepositoryContracts.svg)
